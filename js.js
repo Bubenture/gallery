@@ -1,4 +1,5 @@
 const projects = [
+  'reactCounter',
   'gallery',	
   'parodyOfGlass',
   'kremka',
