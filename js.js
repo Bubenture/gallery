@@ -1,4 +1,5 @@
 const projects = [
+  'reactModalWindow',
   'reactCounter',
   'gallery',	
   'parodyOfGlass',
