@@ -5,6 +5,6 @@
 - Ленивая загрузка изображений: Используется атрибут `loading="lazy"` для оптимизации скорости загрузки.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README/gallery.webp" alt="gallery" style="width: 300px; margin-right: 10px;">
-  <img src="README/gallery1.webp" alt="gallery" style="width: 100px;">
+  <img src="README/gallery.webp" alt="gallery" style="height: 10vh;">
+  <img src="README/gallery1.webp" alt="gallery" style="height: 10vh;">
 </div>
