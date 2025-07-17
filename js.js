@@ -1,5 +1,5 @@
 const projects = [
-	'reactQuiz;,
+	'reactQuiz',
 	'reactModalWindow',
 	'reactCounter',
 	'gallery',	
