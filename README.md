@@ -4,5 +4,7 @@
 - Адаптивная галерея: На мобильных устройствах проекты отображаются одной колонкой, на десктопе — в три слайдера.
 - Ленивая загрузка изображений: Используется атрибут `loading="lazy"` для оптимизации скорости загрузки.
 
-![gallery](README/gallery.webp)
-![gallery1](README/gallery1.webp)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="README/gallery.webp" alt="gallery" style="width: 300px; margin-right: 10px;">
+  <img src="README/gallery1.webp" alt="gallery" style="width: 100px;">
+</div>
