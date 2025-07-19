@@ -1,4 +1,13 @@
-# https://bubenture.github.io/gallery
+ 
+#<div align="center" >
+<a href="https://bubenture.github.io/gallery"><img src="portfolio.svg" alt="mail" style="width: 50px" /></a>
+https://bubenture.github.io/gallery
+<!-- <a href="/"><img src="mail.svg" alt="mail" style="width: 50px" /></a>
+ -->
+</div>
+
+
+
 
 Одностраничный адаптивный сайт-портфолио. Сайт реализован на чистом HTML, CSS и JavaScript без сторонних библиотек. Галерея проектов автоматически подстраивается под размер экрана, а контакты доступны как в галерее, так и в футере.
 - Адаптивная галерея: На мобильных устройствах проекты отображаются одной колонкой, на десктопе — в три слайдера.
