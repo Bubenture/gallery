@@ -1,9 +1,6 @@
- 
-# <div align="center" >
-<a href="https://bubenture.github.io/gallery"><img src="portfolio.svg" alt="mail" style="width: 50px" /></a>
-https://bubenture.github.io/gallery
-<!-- <a href="/"><img src="mail.svg" alt="mail" style="width: 50px" /></a>
- -->
+ # <a href="https://bubenture.github.io/gallery"><img src="README/portfolio.svg" alt="mail" style="width: 50px" />https://bubenture.github.io/gallery</a>
+
+<div align="center" >
 </div>
 
 
