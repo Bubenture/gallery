@@ -5,7 +5,7 @@
 - Ленивая загрузка изображений: Используется атрибут `loading="lazy"` для оптимизации скорости загрузки.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README/gallery.webp" alt="gallery" style="height: 28vh;">
-  <img src="README/gallery1.webp" alt="gallery" style="height: 28vh;">
+  <a href="https://bubenture.github.io/gallery"><img src="README/gallery.webp" alt="gallery" style="height: 28vh;"></a>
+  <a href="https://bubenture.github.io/gallery"><img src="README/gallery1.webp" alt="gallery" style="height: 28vh;"></a>
   <a href="https://bubenture.github.io/gallery"><img src="README/portfolio.svg" alt="mail" style="width: 28vh" /></a>
 </div>
