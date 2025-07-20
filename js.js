@@ -21,8 +21,8 @@ const projects = [
 const contacts = `
     <a href="https://github.com/Bubenture" class="contact" target="_blank">Github</a>
     <a href="https://t.me/bubenture" class="contact" target="_blank">Telegram</a>
-    <a href="https://wa.me/79833799501" class="contact" target="_blank">WhatsApp</a>
-		<a href="mailto:bubenture@gmail.com" class="contact" target="_blank">bubenture@gmail.com</a>`
+    <a href="https://wa.me/79069170591" class="contact" target="_blank">WhatsApp</a>
+    <a href="mailto:bubenture@gmail.com" class="contact" target="_blank">bubenture@gmail.com</a>`
 const contactsSlider = `<div class="slider contacts">` + contacts + `</div>`
 
 function renderDesktop() {
