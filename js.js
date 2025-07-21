@@ -1,4 +1,5 @@
 const projects = [
+	'obscuraBot',
 	'vapeParadise',
 	'reactQuiz',
 	'reactModalWindow',
