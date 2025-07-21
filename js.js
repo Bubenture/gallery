@@ -1,4 +1,5 @@
 const projects = [
+	'vapeParadise',
 	'reactQuiz',
 	'reactModalWindow',
 	'reactCounter',
